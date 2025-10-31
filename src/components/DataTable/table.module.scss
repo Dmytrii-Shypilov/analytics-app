@@ -1,0 +1,16 @@
+.th, .td {
+ border: 1px solid gray;
+}
+
+.th {
+  text-align: center;
+    background-color: yellow;
+    padding: 5px 5px;
+}
+
+.td:not(:first-of-type) {
+    text-align: center;
+}
+// .table {
+   
+// }
