@@ -1,6 +1,6 @@
 "use client";
 
-import { ChangeEvent, useState, useRef, RefObject } from "react";
+import { ChangeEvent, useState, useRef } from "react";
 import TickIcon from "@/components/icons/TickIcon";
 import UploadIcon from "@/components/icons/UploadIcon";
 import DataTable from "@/components/DataTable/DataTable";
